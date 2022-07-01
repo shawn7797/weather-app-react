@@ -14,7 +14,7 @@ function App() {
         <Forecast />
       </main>
       <footer>
-        © Shawn Mathias, 2021
+        © Shawn Mathias, {new Date().getFullYear()}
       </footer>
     </div>
   );
